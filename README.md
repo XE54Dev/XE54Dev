@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python 3
 - 🤔 I’m looking for help with MIPS C
 - 💬 Ask me about Python 3
-- 📫 Contact me on discord, my username is XENON#2116 (send a friend request)
+- 📫 Contact me on discord, my username is XENON#7763 (send a friend request)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spilled water on my computer once!
 
